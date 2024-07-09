@@ -15,7 +15,7 @@
 - 📅 Date and time handling with JavaScript's Date object
 
 ## Installation
-- Clone the repository: git clone <repository-url>
+- Clone the repository: git clone https://github.com/coder-bairagi/react-todos-list.git
 - Install dependencies: npm install
 - Start the development server: npm start
 
